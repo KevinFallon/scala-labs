@@ -1,0 +1,25 @@
+<org.scalalabs.basic.lab01.OOExerciseTest-results timestamp="1469133340569"><result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:17)" id="-1627545224"><stats time="5" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:23)" id="917039370"><stats time="5" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:28)" id="1250031415"><stats time="5" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:34)" id="-936274144"><stats time="4" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:40)" id="1614652274"><stats time="4" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:48)" id="932590686"><stats time="3" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:53)" id="2037656723"><stats time="3" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:62)" id="2132778210"><stats expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:75)" id="-1647857126"><stats expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:82)" id="769424617"><stats expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:90)" id="-1723450459"><stats expectations="1" skipped="1" examples="1"></stats></result>
+</org.scalalabs.basic.lab01.OOExerciseTest-results>
+<org.scalalabs.basic.lab01.OOExerciseTest-stats timestamp="1469133340592"><stats time="16" expectations="12" skipped="11" successes="1" examples="12"></stats></org.scalalabs.basic.lab01.OOExerciseTest-stats>
+<org.scalalabs.basic.lab01.OOExerciseTest-results timestamp="1469135416148"><result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:47)" id="2037656723"><stats time="19" expectations="1" failures="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:67)" id="-1647857126"><stats time="1" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:74)" id="769424617"><stats time="1" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:82)" id="-1723450459"><stats time="1" expectations="1" skipped="1" examples="1"></stats></result>
+</org.scalalabs.basic.lab01.OOExerciseTest-results>
+<org.scalalabs.basic.lab01.OOExerciseTest-stats timestamp="1469135416158"><stats time="18" expectations="12" failures="1" skipped="3" successes="8" examples="12"><trend><stats time="18" failures="1" skipped="-8" successes="7"></stats></trend></stats></org.scalalabs.basic.lab01.OOExerciseTest-stats>
+<org.scalalabs.basic.lab01.OOExerciseTest-results timestamp="1469135630501"><result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:67)" id="-1647857126"><stats time="1" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:74)" id="769424617"><stats time="1" expectations="1" skipped="1" examples="1"></stats></result>
+<result location="org.scalalabs.basic.lab01.OOExerciseTest (OOExerciseTest.scala:82)" id="-1723450459"><stats time="2" expectations="1" skipped="1" examples="1"></stats></result>
+</org.scalalabs.basic.lab01.OOExerciseTest-results>
+<org.scalalabs.basic.lab01.OOExerciseTest-stats timestamp="1469135630515"><stats time="20" expectations="12" skipped="3" successes="9" examples="12"><trend><stats time="20" failures="-1" successes="1"></stats></trend></stats></org.scalalabs.basic.lab01.OOExerciseTest-stats>
+<org.scalalabs.basic.lab01.OOExerciseTest-stats timestamp="1469138547686"><stats time="19" expectations="12" successes="12" examples="12"><trend><stats time="19" skipped="-3" successes="3"></stats></trend></stats></org.scalalabs.basic.lab01.OOExerciseTest-stats>

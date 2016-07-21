@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/Kevin/Documents/Employment/Meraki/Learning Scala/Projects/scala-labs/labs/src/main/resources/META-INF,/Users/Kevin/Documents/Employment/Meraki/Learning Scala/Projects/scala-labs/labs/target/scala-2.11/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/Users/Kevin/Documents/Employment/Meraki/Learning Scala/Projects/scala-labs/labs/src/main/resources/META-INF/orm.xml,/Users/Kevin/Documents/Employment/Meraki/Learning Scala/Projects/scala-labs/labs/target/scala-2.11/classes/META-INF/orm.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/Kevin/Documents/Employment/Meraki/Learning Scala/Projects/scala-labs/labs/src/main/resources/META-INF/persistence.xml,/Users/Kevin/Documents/Employment/Meraki/Learning Scala/Projects/scala-labs/labs/target/scala-2.11/classes/META-INF/persistence.xml)[0m
